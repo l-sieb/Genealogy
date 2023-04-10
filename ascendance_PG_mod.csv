@@ -1,0 +1,659 @@
+ID,N° Sosa/réf.,Génération,Nom de famille,Prénoms,Naissance,Lieu naissance,Nom de famille du conjoint,Prénoms du conjoint,Date d'union,Lieu d'union,Décès,Lieu décès,Age
+0,,1,GIRARD,Pascale Valérie Sophie ,4.4.1971,Cognac,SIEBRECHT,Ralf ,,,,,
+1,1,2,GIRARD,Jean-Claude ,15.6.1946,Cherbonnières,GROLLEAU,Claudette Françoise ,14.10.1967,Cherbonnières,,,
+2,,2,GROLLEAU,Claudette Françoise ,1.6.1946,Cherbonnières,GIRARD,Jean-Claude ,14.10.1967,Cherbonnières,24.2.2016,Cherves-Richemont,69
+3,2,3,GIRARD,Maurice Clovis ,17.4.1909,Saint-Jean-d'Angély,RAYNEAU,Gisèle Audrée Severine ,,,5.10.1980,Paillé,71
+4,3,3,RAYNEAU,Gisèle Audrée Severine ,25.1.1917,Néré,GIRARD,Maurice Clovis ,,,20.12.1993,Paillé,76
+5,,3,GROLLEAU,Robert Léon Elie ,17.1.1912,Salles les Aulnay,BOURRAUD,Micheline Paulette Edith ,21.1.1930,Cherbonnières,21.12.1992,Aulnay,80
+6,,3,BOURRAUD,Micheline Paulette Edith ,25.12.1908,Cherbonnières,GROLLEAU,Robert Léon Elie ,21.1.1930,Cherbonnières,7.11.1980,Cherbonnières,71
+7,4,4,GIRARD,Clovis ,8.1.1868,Aujac,MATHARD,Berth Alina ,5.2.1894,Authon-Ébéon,20.10.1925,Néré,57
+8,5,4,MATHARD,Berth Alina ,11.11.1873,Authon-Ébéon,GIRARD,Clovis ,5.2.1894,Authon-Ébéon,5.10.1942,Néré,68
+9,6,4,RAYNEAU,Florimon Pierre ,5.4.1884,Saint-Vincent-sur-Graon,REMAUD,Augustine Marie Victorine ,6.9.1910,Néré,11.9.1961,Cherbonnières,77
+10,7,4,REMAUD,Augustine Marie Victorine ,27.12.1891,Chaillé-sous-les-Ormeaux,RAYNEAU,Florimon Pierre ,6.9.1910,Néré,29.3.1971,Cherbonnières,79
+11,,4,GROLLEAU,Auguste Alcide ,8.5.1878,Saint-Jean-de-Beugné,PAIN,Elisabeth Geneviève Eugenie ,8.10.1906,Asnières,1.11.1945,Cherbonnières,67
+12,,4,PAIN,Elisabeth Geneviève Eugenie ,21.10.1887,Thouarsais-Bouildroux,GROLLEAU,Auguste Alcide ,8.10.1906,Asnières,3.8.1927,Cherbonnières,39
+13,,4,BOURRAUD,Florentin ,10.12.1857,Coulonges,RICHARD,Marie Celina ,6.8.1889,Cherbonnières,17.6.1918,Cherbonnières,60
+14,,4,RICHARD,Marie Celina ,9.7.1866,Cherbonnières,BOURRAUD,Florentin ,6.8.1889,Cherbonnières,21.2.1945,Cherbonnières,78
+15,8,5,GIRARD,Pierre ,11.4.1841,Aujac,VIGNAUD,Marie ,25.1.1864,Aujac,31.3.1907,Aujac,65
+16,9,5,VIGNAUD,Marie ,7.12.1845,Aujac,GIRARD,Pierre ,25.1.1864,Aujac,13.10.1877,Aujac,31
+17,10,5,MATHARD,Pierre ,25.2.1834,Authon-Ébéon,TEXIER,Marguerite ,25.5.1864,Authon-Ébéon,9.3.1883,Authon-Ébéon,49
+18,11,5,TEXIER,Marguerite ,12.4.1843,La Laigne,MATHARD,Pierre ,25.5.1864,Authon-Ébéon,18.6.1927,Authon-Ébéon,84
+19,12,5,RAYNEAU,Pierre Jean Baptiste ,4.9.1854,Saint-Vincent-sur-Graon,CHUSSEAU,Marie Hortense ,22.6.1880,Saint-Vincent-sur-Graon,,,
+20,13,5,CHUSSEAU,Marie Hortense ,9.1.1854,,RAYNEAU,Pierre Jean Baptiste ,22.6.1880,Saint-Vincent-sur-Graon,,,
+21,14,5,REMAUD,Jaques Pierre Auguste ,9.9.1863,Chaillé-sous-les-Ormeaux,PLISSONNEAU,Marie Rosalie Victorine ,11.8.1886,Saint-Florent-des-Bois,7.8.1926,Néré,62
+22,15,5,PLISSONNEAU,Marie Rosalie Victorine ,23.4.1865,Saint-Florent-des-Bois,REMAUD,Jaques Pierre Auguste ,11.8.1886,Saint-Florent-des-Bois,11.11.1930,Loiré-sur-Nie,65
+23,,5,GROLLEAU,Augustin ,28.10.1838,Saint-Jean-de-Beugné,HERAUD,Louise Modeste ,12.2.1868,Saint-Jean-d'Angély,1906,,67
+24,,5,HERAUD,Louise Modeste ,23.8.1844,Saint-Étienne-de-Brillouet,GROLLEAU,Augustin ,12.2.1868,Saint-Jean-d'Angély,1882,,37
+25,,5,PAIN,Pierre Benjamin ,1860,,RAINEREAU,Elisabeth ,,,,,
+26,,5,RAINEREAU,Elisabeth ,1867,,PAIN,Pierre Benjamin ,,,,,
+27,,5,BOURRAUD,Michel ,22.5.1830,Coulonges,BOURRAUD,Marie ,9.1.1854,Chadenac,,,
+28,,5,BOURRAUD,Marie ,25.6.1827,Chadenac,BOURRAUD,Michel ,9.1.1854,Chadenac,13.3.1895,Chadenac,67
+29,,5,RICHARD,Michel ,27.6.1827,Cherbonnières,SOURISSEAU,Marguerite Radégonde ,31.3.1856,Cherbonnières,1.12.1894,Cherbonnières,67
+30,,5,SOURISSEAU,Marguerite Radégonde ,8.3.1835,Paillé,RICHARD,Michel ,31.3.1856,Cherbonnières,27.1.1904,Cherbonnières,68
+31,16,6,GIRARD,Grégoire Alexandre ,9.5.1817,Aujac,GESTRAUD,Marie ,17.2.1840,Aujac,13.1.1894,Aujac,76
+32,17,6,GESTRAUD,Marie ,29.10.1820,Migron,GIRARD,Grégoire Alexandre ,17.2.1840,Aujac,9.6.1886,Aujac,65
+33,18,6,VIGNAUD,Jean ,2.8.1803,Aujac,GABET,Marie Catherine ,13.8.1844,Aujac,26.8.1873,Aujac,70
+34,19,6,GABET,Marie Catherine ,28.6.1807,Aujac,VIGNAUD,Jean ,13.8.1844,Aujac,16.12.1880,Aujac,73
+35,20,6,MATHARD,Jean ,,,PINAUD,Marie ,,,,,
+36,21,6,PINAUD,Marie ,,,MATHARD,Jean ,,,,,
+37,24,6,RAYNEAU,Pierre ,11.8.1823,Chaillé-sous-les-Ormeaux,GUILBAUD,Marie ,19.10.1852,Saint-Vincent-sur-Graon,,,
+38,25,6,GUILBAUD,Marie ,17.3.1831,Chaillé-sous-les-Ormeaux,RAYNEAU,Pierre ,19.10.1852,Saint-Vincent-sur-Graon,,,
+39,26,6,CHUSSEAU,Jean ,30.1.1820,Le Champ-Saint-Père,ROBIN,Modeste ,25.11.1846,Le Champ-Saint-Père,,,
+40,27,6,ROBIN,Modeste ,21.12.1827,Saint-Vincent-sur-Graon,CHUSSEAU,Jean ,25.11.1846,Le Champ-Saint-Père,,,
+41,28,6,REMAUD,Jacques François ,11.3.1838,Saint-Florent-des-Bois,LIEVRE,Marie Angele ,28.1.1863,Chaillé-sous-les-Ormeaux,21.1.1876,Saint-Florent-des-Bois,37
+42,29,6,LIEVRE,Marie Angele ,17.5.1840,Saint-Florent-des-Bois,REMAUD,Jacques François ,28.1.1863,Chaillé-sous-les-Ormeaux,13.6.1896,Chaillé-sous-les-Ormeaux,56
+43,30,6,PLISSONNEAU,Louis François Aime ,15.6.1837,Saint-Florent-des-Bois,PLISSONNEAU,Jeanne Rosalie Louise ,6.6.1860,Chaillé-sous-les-Ormeaux,24.11.1907,Saint-Florent-des-Bois,70
+44,31,6,PLISSONNEAU,Jeanne Rosalie Louise ,24.12.1838,Nesmy,PLISSONNEAU,Louis François Aime ,6.6.1860,Chaillé-sous-les-Ormeaux,26.5.1869,Saint-Florent-des-Bois,30
+45,,6,GROLLEAU,Augustin ,28.4.1790,Saint-Étienne-de-Brillouet,LEIGLAT,Marie ,20.11.1838,Saint-Jean-de-Beugné,15.7.1855,Saint-Jean-d'Angély,65
+46,,6,LEIGLAT,Marie ,2.5.1810,Saint-Jean-de-Beugné,GROLLEAU,Augustin ,20.11.1838,Saint-Jean-de-Beugné,4.10.1870,Saint-Jean-de-Beugné,60
+47,,6,HERAUD,Louis ,24.12.1810,Bouildroux,THIRÉ,Louise ,,,19.8.1879,,68
+48,,6,THIRÉ,Louise ,21.9.1820,La Reorthe,HERAUD,Louis ,,,1891,,70
+49,,6,BOURRAUD,Jean ,9.10.1786,Pérignac,FERCHAUD,Catherine ,4.11.1818,Coulonges,21.1.1841,Coulonges,54
+50,,6,FERCHAUD,Catherine ,29.3.1795,Coulonges,BOURRAUD,Jean ,4.11.1818,Coulonges,,Coulonges,
+51,,6,BOURRAUD,Jean ,3.1.1801,Pons,BRUNG,Marie ,24.1.1825,Chadenac,,,
+52,,6,BRUNG,Marie ,2.4.1796,,BOURRAUD,Jean ,24.1.1825,Chadenac,,,
+53,,6,RICHARD,Michel ,6.11.1802,Aulnay,CHERBONNIER,Magdelaine ,13.9.1824,Cherbonnières,19.1.1872,Cherbonnières,69
+54,,6,CHERBONNIER,Magdelaine ,13.8.1800,Cherbonnières,RICHARD,Michel ,13.9.1824,Cherbonnières,22.2.1846,Cherbonnières,45
+55,,6,SOURISSEAU,Jean ,6.10.1805,Cherbonnières,ROUX,Marguerite ,12.11.1832,Paillé,8.4.1889,Loiré-sur-Nie,83
+56,,6,ROUX,Marguerite ,12.11.1809,Paillé,SOURISSEAU,Jean ,12.11.1832,Paillé,19.3.1868,Loiré-sur-Nie,58
+57,32,7,GIRARD,Louis ,22.9.1765,Aujac,BILLIAUD,Marie ,,,27.3.1842,Aujac,76
+58,33,7,BILLIAUD,Marie ,10.2.1776,Aujac,GIRARD,Louis ,,,22.12.1838,Aujac,62
+59,34,7,GESTRAUD,Jean ,1785,,CORNET,Catherine ,,,,,
+60,35,7,CORNET,Catherine ,1788,,GESTRAUD,Jean ,,,,,
+61,36,7,VIGNAUD,Jean ,17.12.1765,Aujac,ETOURNEAU,Jeanne ,,,,,
+62,37,7,ETOURNEAU,Jeanne ,1774,,VIGNAUD,Jean ,,,28.3.1806,Aujac,32
+63,38,7,GABET,Jean ,29.1.1777,Aujac,MAYÉ,Jeanne ,,,16.1.1862,Aujac,84
+64,39,7,MAYÉ,Jeanne ,,,GABET,Jean ,,,,,
+65,48,7,RAYNEAU,Pierre ,11.10.1776,Chaillé-sous-les-Ormeaux,PLATEAU,Marie Anne ,21.11.1809,Chaillé-sous-les-Ormeaux,17.1.1846,Chaillé-sous-les-Ormeaux,69
+66,49,7,PLATEAU,Marie Anne ,27.12.1794,Nesmy,RAYNEAU,Pierre ,21.11.1809,Chaillé-sous-les-Ormeaux,7.8.1851,Saint-Vincent-sur-Graon,56
+67,50,7,GUILBAUD,Pierre , 1799,,TESSIER,Marie Rose Catherine Renée ,11.7.1821,Saint-Vincent-sur-Graon,24.11.1846,Saint-Vincent-sur-Graon, 47
+68,51,7,TESSIER,Marie Rose Catherine Renée , 1799,,GUILBAUD,Pierre ,11.7.1821,Saint-Vincent-sur-Graon,,,
+69,52,7,CHUSSEAU,François ,28.3.1790,La Limouzinière,HILLAIRET,Marie Anne ,8.2.1814,Saint-Florent-des-Bois,,,
+70,53,7,HILLAIRET,Marie Anne ,20.8.1795,Saint-Florent-des-Bois,CHUSSEAU,François ,8.2.1814,Saint-Florent-des-Bois,,,
+71,54,7,ROBIN,Jean ,,,CHARTRAUD,Rose ,,,,,
+72,55,7,CHARTRAUD,Rose ,,,ROBIN,Jean ,,,,,
+73,56,7,REMAUD,Pierre Jacques Auguste ,26.7.1804,Saint-Florent-des-Bois,RAMBAUD,Rose ,28.5.1834,Saint-Florent-des-Bois,31.8.1856,Chaillé-sous-les-Ormeaux,52
+74,57,7,RAMBAUD,Rose ,25.12.1797,Saint-Florent-des-Bois,REMAUD,Pierre Jacques Auguste ,28.5.1834,Saint-Florent-des-Bois,30.12.1866,Chaillé-sous-les-Ormeaux,69
+75,58,7,LELIEVRE,Jean Jacques ,25.7.1801,Saint-Florent-des-Bois,ROBLIN,Marie Louise ,13.1.1824,Saint-Florent-des-Bois,19.8.1868,Chaillé-sous-les-Ormeaux,67
+76,59,7,ROBLIN,Marie Louise ,20.2.1797,Saint-Florent-des-Bois,LELIEVRE,Jean Jacques ,13.1.1824,Saint-Florent-des-Bois,30.11.1872,Nesmy,75
+77,60,7,PLISSONNEAU,Louis Joseph ,19.4.1811,Saint-Florent-des-Bois,ROBLIN,Marie ,18.2.1835,Saint-Florent-des-Bois,2.12.1860,Saint-Florent-des-Bois,49
+78,61,7,ROBLIN,Marie ,12.9.1812,Saint-Florent-des-Bois,PLISSONNEAU,Louis Joseph ,18.2.1835,Saint-Florent-des-Bois,17.11.1899,Saint-Florent-des-Bois,87
+79,62,7,PLISSONNEAU,Jacques ,13.8.1802,Nesmy,GALERNEAU,Madelaine Rosalie ,21.2.1838,Nesmy,25.2.1861,Chaillé-sous-les-Ormeaux,58
+80,63,7,GALERNEAU,Madelaine Rosalie ,13.10.1811,Chaillé-sous-les-Ormeaux,PLISSONNEAU,Jacques ,21.2.1838,Nesmy,3.7.1845,Nesmy,33
+81,,7,GROLLEAU,Jacques ,25.4.1733,Saint-Jean-de-Beugné,VIOLLEAU,Magdelaine Françoise ,22.10.1787,Pouillé,3.8.1792,Saint-Étienne-de-Brillouet,59
+82,,7,VIOLLEAU,Magdelaine Françoise ,6.6.1761,Saint-Étienne-de-Brillouet,GROLLEAU,Jacques ,22.10.1787,Pouillé,4.1.1825,Saint-Étienne-de-Brillouet,63
+83,,7,LEIGLAT,Pierre ,26.1.1783,,BERNARD,Magdelaine ,9.2.1808,Saint-Jean-de-Beugné,1.6.1855,,72
+84,,7,BERNARD,Magdelaine ,18.3.1786,Saint-Jean-de-Beugné,LEIGLAT,Pierre ,9.2.1808,Saint-Jean-de-Beugné,16.9.1859,Saint-Jean-de-Beugné,73
+85,,7,HERAUD,Pierre ,2.2.1780,La Caillere,MERIT,Jeanne ,1809,Thouarsais-Bouildroux,11.9.1854,Saint-Laurent-de-la-Salle,74
+86,,7,MERIT,Jeanne ,1769,Thouarsais-Bouildroux,HERAUD,Pierre ,1809,Thouarsais-Bouildroux,25.2.1845,Mouilleron-en-Areds,76
+87,,7,SANSNOM,?- 1136,,,THIRÉ,Marie ,,,,,
+88,,7,THIRÉ,Marie ,,,SANSNOM,?- 1136,,,,,
+89,,7,BOURRAUD,Jean ,9.5.1753,Pérignac,BARBRAUD,Marie ,11.1.1779,Pérignac,,,
+90,,7,BARBRAUD,Marie ,1751,Pérignac,BOURRAUD,Jean ,11.1.1779,Pérignac,7.4.1808,Pérignac,57
+91,,7,FERCHAUD,Jean ,,,GEOFFROY,Catherine ,,,,,
+92,,7,GEOFFROY,Catherine ,,,FERCHAUD,Jean ,,,,,
+93,,7,BOURRAUD,Jean ,,,POTUT,Jeanne ,,,1825,Pons,
+94,,7,POTUT,Jeanne ,,,BOURRAUD,Jean ,,,7.2.1821,Pons,
+95,,7,BRUNG,Pierre ,,,DROUHET,Marie ,,,,,
+96,,7,DROUHET,Marie ,,,BRUNG,Pierre ,,,,,
+97,,7,RICHARD,Michel ,,,CHARBONNIER,Jeanne ,,,,,
+98,,7,CHARBONNIER,Jeanne ,,,RICHARD,Michel ,,,,,
+99,,7,SOURISSEAU,Pierre ,23.8.1769,Cherbonnières,BOURDIN,Jeanne ,23.1.1798,Cherbonnières,11.10.1832,Cherbonnières,63
+100,,7,BOURDIN,Jeanne ,26.1.1775,Cherbonnières,SOURISSEAU,Pierre ,23.1.1798,Cherbonnières,10.11.1848,Loiré-sur-Nie,73
+101,,7,ROUX,Pierre ,5.12.1777,Loubigné,GABORIT,Marguerite ,22.2.1808,Paillé,5.1.1830,Paillé,52
+102,,7,GABORIT,Marguerite ,22.10.1787,Paillé,ROUX,Pierre ,22.2.1808,Paillé,27.7.1848,Paillé,60
+103,64,8,GIRARD,Francois ,,,GAUDIN,Marie ,,,,,
+104,65,8,GAUDIN,Marie ,,,GIRARD,Francois ,,,,,
+105,66,8,BILLIAUD,Jean ,,,ROBERT,Marie ,,,,,
+106,67,8,ROBERT,Marie ,,,BILLIAUD,Jean ,,,,,
+107,72,8,VIGNAUD,Jean ,,,DENEVY,Marie ,,,,,
+108,73,8,DENEVY,Marie ,1741,,VIGNAUD,Jean ,,,1803,,61
+109,74,8,ETOURNEAU,Michel ,,,NEZERAU,Marie ,,,,,
+110,75,8,NEZERAU,Marie ,,,ETOURNEAU,Michel ,,,,,
+111,76,8,GABET,André ,23.9.1724,Courcerac,MOUTON,Jeanne ,15.7.1775,Aujac,21.11.1803,Aujac,79
+112,77,8,MOUTON,Jeanne ,21.5.1749,Authon-Ébéon,GABET,André ,15.7.1775,Aujac,13.7.1818,Aujac,69
+113,96,8,RAYNEAU,René ,18.6.1736,Chaillé-sous-les-Ormeaux,BUREAU,Marie Renée ,25.2.1767,Le Tablier,,,
+114,97,8,BUREAU,Marie Renée ,3.2.1747,Chaillé-sous-les-Ormeaux,RAYNEAU,René ,25.2.1767,Le Tablier,13.3.1781,Chaillé-sous-les-Ormeaux,34
+115,98,8,PLATEAU,François , 1757,,CARDINAUD,Marie ,,,,,
+116,99,8,CARDINAUD,Marie ,,,PLATEAU,François ,,,,,
+117,100,8,GUILBAUD,Pierre , 1772,,GENDRONNEAU,Jeanne ,10.3.1799,Mareuil-sur-Lay-Dissais,27.8.1830,Château-Guibert, 58
+118,101,8,GENDRONNEAU,Jeanne , 1772,,GUILBAUD,Pierre ,10.3.1799,Mareuil-sur-Lay-Dissais,27.8.1830,Château-Guibert, 58
+119,102,8,TESSIER,François ,,,BAREIL,Françoise ,,,,,
+120,103,8,BAREIL,Françoise ,,,TESSIER,François ,,,,,
+121,104,8,CHUSSEAU,François ,1.11.1761,,YDIER,Jeanne ,10.2.1789,La Limouzinière,< 1814,, 52
+122,105,8,YDIER,Jeanne ,24.8.1761,Aubigny,CHUSSEAU,François ,10.2.1789,La Limouzinière,,,
+123,106,8,HILLAIRET,Louis ,1.4.1754,Chaillé-sous-les-Ormeaux,MARTINEAU,Marie Anne ,21.8.1787,Chaillé-sous-les-Ormeaux,< 1814,, 59
+124,107,8,MARTINEAU,Marie Anne ,11.6.1768,Nesmy,HILLAIRET,Louis ,21.8.1787,Chaillé-sous-les-Ormeaux,,,
+125,112,8,REMAUD,Jacques ,14.9.1772,Bourg sous la Roche,GREFFARD,Françoise ,15.11.1803,Saint-Florent-des-Bois,2.2.1806,Saint-Florent-des-Bois,33
+126,113,8,GREFFARD,Françoise ,7.2.1779,Chaillé-sous-les-Ormeaux,REMAUD,Jacques ,15.11.1803,Saint-Florent-des-Bois,1.7.1846,Chaillé-sous-les-Ormeaux,67
+127,114,8,RAMBAUD,Etienne ,18.6.1750,Bourg sous la Roche,PROUTEAU,Marie Françoise Anne ,8.2.1791,Saint-Florent-des-Bois,3.4.1800,Saint-Florent-des-Bois,49
+128,115,8,PROUTEAU,Marie Françoise Anne ,14.3.1758,La Ferrière,RAMBAUD,Etienne ,8.2.1791,Saint-Florent-des-Bois,19.4.1817,Saint-Florent-des-Bois,59
+129,116,8,LELIEVRE,Jean ,19.1.1773,Château-Guibert,LHUMEAU,Marie Jeanne ,17.1.1799,Le Tablier,4.10.1836,Saint-Florent-des-Bois,63
+130,117,8,LHUMEAU,Marie Jeanne ,29.3.1776,Le Tablier,LELIEVRE,Jean ,17.1.1799,Le Tablier,1.1.1832,Saint-Florent-des-Bois,55
+131,118,8,ROBLIN,François ,17.8.1755,Saint-Florent-des-Bois,GOICHON,Jeanne Charlotte ,27.9.1785,Saint-Florent-des-Bois,10.3.1832,Saint-Florent-des-Bois,76
+132,119,8,GOICHON,Jeanne Charlotte ,29.1.1758,Dompierre-sur-Yon,ROBLIN,François ,27.9.1785,Saint-Florent-des-Bois,9.1.1805,Saint-Florent-des-Bois,46
+133,120,8,PLISSONNEAU,Louis ,15.4.1785,Nesmy,DELAIRE,Victoire ,24.2.1808,Aubigny,26.6.1833,Saint-Florent-des-Bois,48
+134,121,8,DELAIRE,Victoire ,22.7.1777,Aubigny,PLISSONNEAU,Louis ,24.2.1808,Aubigny,16.6.1847,Saint-Florent-des-Bois,69
+135,122,8,ROBLIN,Louis ,18.8.1788,Saint-Florent-des-Bois,BESSONET,Marie ,5.2.1810,Saint-Florent-des-Bois,4.7.1840,,51
+136,123,8,BESSONET,Marie ,4.12.1785,La-Chaize-le-Vicomte,ROBLIN,Louis ,5.2.1810,Saint-Florent-des-Bois,12.5.1846,,60
+137,124,8,PLISSONNEAU,Jacques , 1784,Nesmy,IDIER,Jeanne ,3.2.1801,Nesmy,9.6.1823,Nesmy, 39
+138,125,8,IDIER,Jeanne ,19.11.1778,,PLISSONNEAU,Jacques ,3.2.1801,Nesmy,,,
+139,126,8,GALERNEAU,François Marie ,10.10.1778,Nesmy,MATHE,Marie Jeanne ,25.1.1803,Nesmy,3.2.1838,Nesmy,59
+140,127,8,MATHE,Marie Jeanne ,10.8.1780,Nesmy,GALERNEAU,François Marie ,25.1.1803,Nesmy,,,
+141,,8,GROLLEAU,Jacques ,2.11.1710,Saint Hermand,ESTÉ,Magdelaine ,9.7.1731,Saint Hermand,4.2.1780,Pouillé,69
+142,,8,ESTÉ,Magdelaine ,5.12.1705,Saint-Jean-de-Beugné,GROLLEAU,Jacques ,9.7.1731,Saint Hermand,18.9.1756,St Martin Lars en Sainte Hermind,50
+143,,8,VIOLLEAU,René ,1717,Saint-Jean-de-Beugné,BOIDÉ,Françoise ,19.2.1754,Saint-Valérien,5.1.1785,Saint-Étienne-de-Brillouet,68
+144,,8,BOIDÉ,Françoise ,11.3.1727,Saint-Valérien,VIOLLEAU,René ,19.2.1754,Saint-Valérien,29.4.1789,Saint-Étienne-de-Brillouet,62
+145,,8,LEGLAT,Louis ,17.3.1754,La Vineuse,RAMBAULT,Catherine ,6.2.1781,Saint Hermand,22.2.1821,Saint-Jean-de-Beugné,66
+146,,8,RAMBAULT,Catherine ,1746,,LEGLAT,Louis ,6.2.1781,Saint Hermand,21.9.1806,Saint-Jean-de-Beugné,60
+147,,8,BERNARD,François ,17.12.1746,Saint-Jean-de-Beugné,ALBERT,Jeanne ,27.11.1781,Saint-Jean-de-Beugné,5.10.1795,Saint-Jean-de-Beugné,48
+148,,8,ALBERT,Jeanne ,9.3.1757,Saint-Jean-de-Beugné,BERNARD,François ,27.11.1781,Saint-Jean-de-Beugné,21.5.1836,Saint-Jean-de-Beugné,79
+149,,8,HERAUD,Louis ,9.7.1743,Thouarsais-Bouildroux,RAFFENEAU,Louise ,1.3.1778,La Caillere,8.3.1803,La Caillere,59
+150,,8,RAFFENEAU,Louise ,28.3.1753,Saint-Laurent-de-la-Salle,HERAUD,Louis ,1.3.1778,La Caillere,11.7.1836,Thouarsais-Bouildroux,83
+151,,8,MERIT,Pierre ,1745,,BAUDRY,Marie Anne ,15.2.1768,Thouarsais-Bouildroux,9.8.1794,Thouarsais-Bouildroux,49
+152,,8,BAUDRY,Marie Anne ,20.4.1749,La Caillere St Hillaire,MERIT,Pierre ,15.2.1768,Thouarsais-Bouildroux,11.3.1785,Thouarsais-Bouildroux,35
+153,,8,THIRÉ,Mathurin ,,,,,,,,,
+154,,8,BOURRAUD,Pierre ,2.5.1724,Pérignac,QUANTIN,Catherine ,1.2.1751,Pérignac,7.10.1782,Pérignac,58
+155,,8,QUANTIN,Catherine ,1.4.1728,Pérignac,BOURRAUD,Pierre ,1.2.1751,Pérignac,31.12.1808,Pérignac,80
+156,,8,BARBRAUD,Etienne ,17.6.1714,Pérignac,LEUTARD,Jeanne ,29.1.1731,Pérignac,,,
+157,,8,LEUTARD,Jeanne ,1713,Celles,BARBRAUD,Etienne ,29.1.1731,Pérignac,30.7.1781,Pérignac,68
+158,,8,SOURISSEAU,Pierre ,1732,,MAGNANT,Marguerite ,30.5.1763,Cherbonnières,,,
+159,,8,MAGNANT,Marguerite ,1741,,SOURISSEAU,Pierre ,30.5.1763,Cherbonnières,,,
+160,,8,BOURDIN,Charles ,21.9.1728,Cherbonnières,SOURISSEAU,Jeanne ,26.1.1761,Cherbonnières,5.6.1809,Cherbonnières,80
+161,,8,SOURISSEAU,Jeanne ,2.10.1734,Cherbonnières,BOURDIN,Charles ,26.1.1761,Cherbonnières,21.12.1806,Cherbonnières,72
+162,,8,GABORIT,Pierre ,4.1754,Paillé,HARD,Catherine ,1.2.1785,Paillé,13.1.1837,Paillé,82
+163,,8,HARD,Catherine ,,,GABORIT,Pierre ,1.2.1785,Paillé,,,
+164,146,9,DENEVY,Jean ,,,GUITTON,Marie ,,,,,
+165,147,9,GUITTON,Marie ,,,DENEVY,Jean ,,,,,
+166,152,9,GABET,Jean André ,26.6.1692,Courcerac,COUPRIE,Marguerite ,12.2.1720,Aujac,,,
+167,153,9,COUPRIE,Marguerite ,1691,,GABET,Jean André ,12.2.1720,Aujac,5.5.1775,Aujac,84
+168,154,9,MOUTON,Pierre ,,,MILLON,Michèle ,6.6.1744,Bercloux,,,
+169,155,9,MILLON,Michèle ,1716,Authon-Ébéon,MOUTON,Pierre ,6.6.1744,Bercloux,10.1.1766,Authon-Ébéon,50
+170,192,9,RAYNEAU,Louis , 1700,Chaillé-sous-les-Ormeaux,DURAND,Renée ,,,15.2.1766,Chaillé-sous-les-Ormeaux, 66
+171,193,9,DURAND,Renée , 1703,Chaillé-sous-les-Ormeaux,RAYNEAU,Louis ,,,3.12.1780,Chaillé-sous-les-Ormeaux, 77
+172,194,9,BUREAU,René , 1715,,GREFFARD,Marie ,5.2.1744,Chaillé-sous-les-Ormeaux,29.9.1780,Le Tablier, 65
+173,195,9,GREFFARD,Marie , 1720,,BUREAU,René ,5.2.1744,Chaillé-sous-les-Ormeaux,27.2.1766,Le Tablier, 46
+174,200,9,GUILBAUD,Jean , 1743,,FRAINEAU,Marie ,27.6.1768,Château-Guibert,,,
+175,201,9,FRAINEAU,Marie , 1745,,GUILBAUD,Jean ,27.6.1768,Château-Guibert,1.2.1803,Château-Guibert, 58
+176,202,9,GENDRONNEAU,Pierre ,,,BRETAUD,Anne ,,,,,
+177,203,9,BRETAUD,Anne ,,,GENDRONNEAU,Pierre ,,,,,
+178,208,9,CHUSSEAU,Pierre ,,,PAZIOT,Marie ,5.7.1741,La Roche-sur-Yon,,,
+179,209,9,PAZIOT,Marie ,,,CHUSSEAU,Pierre ,5.7.1741,La Roche-sur-Yon,< 1789,,
+180,210,9,IDIER,Denis ,,,BAREIL,Marie Gabrielle ,21.2.1753,Aubigny,,,
+181,211,9,BAREIL,Marie Gabrielle ,,,IDIER,Denis ,21.2.1753,Aubigny,,,
+182,212,9,HILLAIRET,Pierre ,,,BOUARD,Marie ,,,,,
+183,213,9,BOUARD,Marie ,,,HILLAIRET,Pierre ,,,,,
+184,214,9,MARTINEAU,Nicolas ,1731,,GALERNEAU,Magdelaine ,19.2.1754,,22.9.1789,Chaillé-sous-les-Ormeaux,58
+185,215,9,GALERNEAU,Magdelaine ,,,MARTINEAU,Nicolas ,19.2.1754,,,,
+186,224,9,REMAUD,Jacques ,1731,Saint-Avaugourd-des-Landes,DUBOIS,Louise ,22.11.1757,Bourg sous la Roche,24.4.1785,La Roche-sur-Yon,54
+187,225,9,DUBOIS,Louise ,1732,,REMAUD,Jacques ,22.11.1757,Bourg sous la Roche,1802,La Roche-sur-Yon,70
+188,226,9,GREFFARD,Pierre Denis ,12.6.1747,Chaillé-sous-les-Ormeaux,PASQUIER,Marie Henriette ,10.1.1769,Chaillé-sous-les-Ormeaux,28.2.1792,Nesmy,44
+189,227,9,PASQUIER,Marie Henriette ,29.4.1745,Thorigny,GREFFARD,Pierre Denis ,10.1.1769,Chaillé-sous-les-Ormeaux,,,
+190,228,9,RAMBAUD,François ,26.8.1721,Saint-Florent-des-Bois,THULLEAU,Jacquette ,4.10.1741,Bourg sous la Roche,1.2.1788,Saint-Florent-des-Bois,66
+191,229,9,THULLEAU,Jacquette , 1727,,RAMBAUD,François ,4.10.1741,Bourg sous la Roche,14.4.1775,Saint-Florent-des-Bois, 48
+192,232,9,LEVREAU,Nicolas , 1738,,BARITAUD,Jeanne ,30.6.1767,Château-Guibert,13.12.1784,Château-Guibert, 46
+193,233,9,BARITAUD,Jeanne , 1734,,LEVREAU,Nicolas ,30.6.1767,Château-Guibert,25.8.1779,Château-Guibert, 45
+194,234,9,LHUMEAU,Pierre ,,,LAVERGNE,Marie Jeanne ,,,,,
+195,235,9,LAVERGNE,Marie Jeanne ,24.10.1763,Chaillé-sous-les-Ormeaux,LHUMEAU,Pierre ,,,,,
+196,236++,9,ROBLIN,Jaques ,2.6.1724,Saint-Florent-des-Bois,PERCOT,Marie ,14.7.1749,Saint-Florent-des-Bois,27.2.1772,Saint-Florent-des-Bois,47
+197,237++,9,PERCOT,Marie ,12.11.1725,Saint-Florent-des-Bois,ROBLIN,Jaques ,14.7.1749,Saint-Florent-des-Bois,16.4.1810,Saint-Florent-des-Bois,84
+198,238,9,GOICHON,Jacques ,,,BUTON,Jacquette ,28.5.1754,Dompierre-sur-Yon,5.3.1794,Saint-Florent-des-Bois,
+199,239,9,BUTON,Jacquette ,,,GOICHON,Jacques ,28.5.1754,Dompierre-sur-Yon,23.11.1788,Saint-Florent-des-Bois,
+200,240++,9,PLISSONNEAU,Jacques ,17.11.1748,Nesmy,MARIONNEAU,Marie ,24.1.1776,Nesmy,30.11.1819,Nesmy,71
+201,241++,9,MARIONNEAU,Marie ,18.1.1754,Saint-Florent-des-Bois,PLISSONNEAU,Jacques ,24.1.1776,Nesmy,31.7.1820,Nesmy,66
+202,242,9,DELAIRE,Pierre ,14.3.1737,Les Clouzeaux,ESNARD,Louise ,9.2.1763,Aubigny,9.1794,Aubigny,57
+203,243,9,ESNARD,Louise , 1729,,DELAIRE,Pierre ,9.2.1763,Aubigny,8.7.1810,Bourg sous la Roche, 81
+204,244,9,ROBLIN,Jean ,1.4.1753,Saint-Florent-des-Bois,MARTINEAU,Jeanne ,9.2.1779,Saint-Florent-des-Bois,,,
+205,245,9,MARTINEAU,Jeanne ,16.1.1753,Saint-Florent-des-Bois,ROBLIN,Jean ,9.2.1779,Saint-Florent-des-Bois,26.7.1825,Saint-Florent-des-Bois,72
+206,246,9,BESSONET,Pierre ,2.12.1751,Thorigny,PUBERT,Catherine ,18.1.1785,La Chaize-le-Vicomte,,,
+207,247,9,PUBERT,Catherine ,,,BESSONET,Pierre ,18.1.1785,La Chaize-le-Vicomte,,,
+208,248 (240),9,PLISSONNEAU,Jacques ,17.11.1748,Nesmy,MARIONNEAU,Marie ,24.1.1776,Nesmy,30.11.1819,Nesmy,71
+209,249 (241),9,MARIONNEAU,Marie ,18.1.1754,Saint-Florent-des-Bois,PLISSONNEAU,Jacques ,24.1.1776,Nesmy,31.7.1820,Nesmy,66
+210,250,9,IDIER,Guy Denis Joseph ,7.11.1747,,GENDRONNEAU,Marie ,18.1.1774,,10.4.1812,Nesmy,64
+211,251,9,GENDRONNEAU,Marie , 1751,,IDIER,Guy Denis Joseph ,18.1.1774,,3.1.1821,Nesmy, 70
+212,252,9,GALERNEAU,Jacques ,17.10.1752,Nesmy,PASQUIER,Marie Rose ,26.11.1777,Nesmy,20.6.1810,Chaillé-sous-les-Ormeaux,57
+213,253,9,PASQUIER,Marie Rose ,20.10.1751,Thorigny,GALERNEAU,Jacques ,26.11.1777,Nesmy,,,
+214,254,9,MATHE,André ,24.1.1744,Les Clouzeaux,BLUSSEAU,Marguerite ,1.1.1769,Nesmy,1.10.1800,Nesmy,56
+215,255,9,BLUSSEAU,Marguerite , 1748,Le Tablier,MATHE,André ,1.1.1769,Nesmy,,,
+216,,9,GROLLEAU,Jacques ,1677,,FEUVRE,Marie ,7.2.1701,Thiré,25.5.1727,Saint Hermand,50
+217,,9,FEUVRE,Marie ,1687,,GROLLEAU,Jacques ,7.2.1701,Thiré,4.11.1727,,40
+218,,9,ESTÉ,René ,,,CHAILLOU,Catherine ,,,,,
+219,,9,CHAILLOU,Catherine ,,,ESTÉ,René ,,,,,
+220,,9,VIOLLEAU,Pierre ,1679,Saint-Étienne-de-Brillouet,BLANCHET,Marie ,31.1.1702,Saint-Jean-de-Beugné,15.7.1753,Saint-Étienne-de-Brillouet,74
+221,,9,BLANCHET,Marie ,1686,Saint-Étienne-de-Brillouet,VIOLLEAU,Pierre ,31.1.1702,Saint-Jean-de-Beugné,22.10.1761,Saint-Étienne-de-Brillouet,75
+222,,9,BOIDÉ,Cristophe ,1683,Saint-Étienne-de-Brillouet,GABORIT,Françoise ,28.2.1724,Saint-Valérien,10.1.1766,Saint-Valérien,83
+223,,9,GABORIT,Françoise ,18.3.1691,La Meilleraie-Tillay,BOIDÉ,Cristophe ,28.2.1724,Saint-Valérien,18.4.1741,Saint-Valérien,50
+224,,9,LEGLAT,Jean ,,,PLANCHE,Marie ,,,,,
+225,,9,PLANCHE,Marie ,,,LEGLAT,Jean ,,,,,
+226,,9,RAMBAULT,Louis ,,,MORET,Marie ,,,,,
+227,,9,MORET,Marie ,,,RAMBAULT,Louis ,,,,,
+228,,9,BERNARD,Marc Antoine ,,,CLAVEAU,Jeanne ,21.11.1741,Corpe,,,
+229,,9,CLAVEAU,Jeanne ,,,BERNARD,Marc Antoine ,21.11.1741,Corpe,,,
+230,,9,ALBERT,Jacques ,,,CAILLAR,Jeanne ,,,,,
+231,,9,CAILLAR,Jeanne ,,,ALBERT,Jacques ,,,,,
+232,,9,HERAUD,Louis , 1708,,PLANCHÉ,Jeanne ,16.11.1735,Thouarsais-Bouildroux,2.7.1780,Thouarsais-Bouildroux, 72
+233,,9,PLANCHÉ,Jeanne , 1706,,HERAUD,Louis ,16.11.1735,Thouarsais-Bouildroux,30.5.1766,Bouildroux, 60
+234,,9,RAFFENEAU,Louis ,,,BELION,Renée ,19.9.1749,La Caillere,< 1774,,
+235,,9,BELION,Renée ,,,RAFFENEAU,Louis ,19.9.1749,La Caillere,,,
+236,,9,MERIT,Henry ,1716,,GIRAUDET,Perine ,11.4.1742,Thouarsais-Bouildroux,4.2.1749,,33
+237,,9,GIRAUDET,Perine ,27.3.1717,Thouarsais-Bouildroux,MERIT,Henry ,11.4.1742,Thouarsais-Bouildroux,5.5.1773,Thouarsais-Bouildroux,56
+238,,9,BAUDRY,Francois ,10.3.1722,Bouildroux,GIBOUIN,Renee ,30.1.1741,Thouarsais-Bouildroux,9.12.1789,Thouarsais-Bouildroux,67
+239,,9,GIBOUIN,Renee ,28.8.1719,St Hillaire du Bois,BAUDRY,Francois ,30.1.1741,Thouarsais-Bouildroux,6.2.1784,Thouarsais-Bouildroux,64
+240,,9,BOURRAUD,Pierre ,21.2.1689,Pérignac,MARTINEAU,Catherine ,5.6.1719,Pérignac,,,
+241,,9,MARTINEAU,Catherine ,20.12.1698,Pérignac,BOURRAUD,Pierre ,5.6.1719,Pérignac,,,
+242,,9,QUANTIN,Jean ,1691,,BURAUD,Marie ,17.2.1727,Pérignac,22.7.1768,Pérignac,77
+243,,9,BURAUD,Marie ,,,QUANTIN,Jean ,17.2.1727,Pérignac,,,
+244,,9,BARBRAUD,Jean ,,,SAULNIER,Marie Therese ,20.11.1690,Pérignac,,,
+245,,9,SAULNIER,Marie Therese ,,,BARBRAUD,Jean ,20.11.1690,Pérignac,,,
+246,,9,LEUTARD,Michel ,1669,,SERIZIER,Jeanne ,,,,,
+247,,9,SERIZIER,Jeanne ,1669,,LEUTARD,Michel ,,,,,
+248,,9,BOURDIN,Jean ,,,LANDRY,Marie ,,,,,
+249,,9,LANDRY,Marie ,,,BOURDIN,Jean ,,,24.12.1762,,
+250,,9,GABORIT,François ,1702,Paillé,GUIONNET,Marie ,6.2.1747,Vervant,18.1.1779,Paillé,77
+251,,9,GUIONNET,Marie ,29.3.1716,Vervant,GABORIT,François ,6.2.1747,Vervant,,,
+252,304,10,GABET,André ,21.5.1662,Courcerac,TOUZINEAU,Françoise ,27.10.1691,Courcerac,3.1.1712,Courcerac,49
+253,305,10,TOUZINEAU,Françoise ,,,GABET,André ,27.10.1691,Courcerac,,,
+254,384,10,RAYNEAU,René , 1670,Chaillé-sous-les-Ormeaux,CRUCHET,Renée ,,,22.2.1736,Chaillé-sous-les-Ormeaux, 66
+255,385,10,CRUCHET,Renée , 1676,Chaillé-sous-les-Ormeaux,RAYNEAU,René ,,,,,
+256,388,10,BUREAU,Nicolas ,,,GREFFARD,Jeanne ,,,,,
+257,389,10,GREFFARD,Jeanne ,,,BUREAU,Nicolas ,,,,,
+258,390,10,GREFFARD,Mathurin , 1695,,BOCQUIER,Marie ,,,13.8.1755,Chaillé-sous-les-Ormeaux, 60
+259,391,10,BOCQUIER,Marie , 1694,,GREFFARD,Mathurin ,,,10.5.1739,Chaillé-sous-les-Ormeaux, 45
+260,416,10,CHUSSEAU,Maurice ,,,BARITEAU,Catherine ,,,< 1741,,
+261,417,10,BARITEAU,Catherine ,,,CHUSSEAU,Maurice ,,,,,
+262,418,10,PAZIOT,Jacques ,,,DROUARD,Catherine ,,,,,
+263,419,10,DROUARD,Catherine ,,,PAZIOT,Jacques ,,,,,
+264,420,10,IDIER,Denis ,,,GUYET,Marie ,,,,,
+265,421,10,GUYET,Marie ,,,IDIER,Denis ,,,,,
+266,422,10,BAREIL,Gabriel ,,,AUBIN,Louise ,,,,,
+267,423,10,AUBIN,Louise ,,,BAREIL,Gabriel ,,,,,
+268,428,10,MARTINEAU,Nicolas ,,,BIGAUD,Marie ,,,,,
+269,429,10,BIGAUD,Marie ,,,MARTINEAU,Nicolas ,,,,,
+270,430,10,GALERNEAU,Jean ,,,TEXIER,Jeanne ,,,,,
+271,431,10,TEXIER,Jeanne ,,,GALERNEAU,Jean ,,,,,
+272,448,10,REMAUD,Mathurin ,1694,,TARDY,Louise ,,,22.1.1766,Saint-Cyr-en-Talmondais,72
+273,449,10,TARDY,Louise ,,,REMAUD,Mathurin ,,,,,
+274,450,10,DUBOIS,Pierre ,,,POVERTE,Marie ,,,,,
+275,451,10,POVERTE,Marie ,,,DUBOIS,Pierre ,,,,,
+276,452,10,GREFFARD,Denis ,,,BECHIEAU,Marie ,,,,,
+277,453,10,BECHIEAU,Marie ,,,GREFFARD,Denis ,,,,,
+278,454++,10,PASQUIER,Henry ,1720,,ROUILLON,Marie Anne ,8.7.1744,Thorigny,11.10.1762,Thorigny,42
+279,455++,10,ROUILLON,Marie Anne , 1725,,PASQUIER,Henry ,8.7.1744,Thorigny,28.1.1780,Thorigny, 55
+280,456,10,RAMBAUD,Jacques , 1682,,LEMOINE,Marie ,,,11.2.1759,Saint-Florent-des-Bois, 77
+281,457,10,LEMOINE,Marie , 1693,,RAMBAUD,Jacques ,,,8.8.1765,Saint-Florent-des-Bois, 72
+282,458,10,THULLEAU,George ,17.3.1697,Bourg sous la Roche,RENAUD,Marie Madelaine ,,,16.8.1738,Bourg sous la Roche,41
+283,459,10,RENAUD,Marie Madelaine ,4.2.1700,Saint-Florent-des-Bois,THULLEAU,George ,,,14.1.1766,Bourg sous la Roche,65
+284,464,10,LEVRAUD,René , 1707,,GIRARDIN,Charlotte ,11.11.1727,Saint-Jean-de-Beugné,4.5.1748,Bessay, 41
+285,465,10,GIRARDIN,Charlotte , 1691,,LEVRAUD,René ,11.11.1727,Saint-Jean-de-Beugné,27.1.1772,Château-Guibert, 81
+286,466,10,BARITAUD,Jean ,,,ROBLIN,Marie  [],,,,,
+287,467,10,ROBLIN,Marie  [],,,BARITAUD,Jean ,,,,,
+288,468,10,LHUMEAU,René ,,,RENAUD,Catherine ,,,,,
+289,469,10,RENAUD,Catherine ,,,LHUMEAU,René ,,,,,
+290,470,10,LAVERGNE,Jean ,,,SELIN,Louise ,17.2.1738,Saint-Florent-des-Bois,,,
+291,471,10,SELIN,Louise ,,,LAVERGNE,Jean ,17.2.1738,Saint-Florent-des-Bois,,,
+292,472++,10,ROBLIN,Mathurin ,10.12.1699,Saint-Florent-des-Bois,GIRAUDEAU,Jeanne ,,,5.7.1747,Saint-Florent-des-Bois,47
+293,473++,10,GIRAUDEAU,Jeanne ,1696,,ROBLIN,Mathurin ,,,23.8.1750,Saint-Florent-des-Bois,54
+294,474++,10,PERCOT,Nicolas ,3.1.1693,Saint-Florent-des-Bois,RUFFINEAU,Jeanne ,7.11.1719,Saint-Florent-des-Bois,30.10.1754,Chaillé-sous-les-Ormeaux,61
+295,475++,10,RUFFINEAU,Jeanne ,1697,,PERCOT,Nicolas ,7.11.1719,Saint-Florent-des-Bois,> 1749,,= 51
+296,476,10,GOICHON,Pierre ,1.10.1704,Saint-Florent-des-Bois,HILAIRET,Marie ,28.5.1754,Dompierre-sur-Yon,21.3.1778,Saint-Florent-des-Bois,73
+297,477,10,HILAIRET,Marie ,,,GOICHON,Pierre ,28.5.1754,Dompierre-sur-Yon,9.7.1785,Saint-Florent-des-Bois,
+298,478,10,BUTON,Jacques ,1691,,ARNAUD,Jacquette ,,,6.6.1751,Dompierre-sur-Yon,60
+299,479,10,ARNAUD,Jacquette ,,,BUTON,Jacques ,,,2.5.1764,La Roche-sur-Yon,
+300,480++,10,PLISSONNEAU,Jean ,1712,,GUERY,Renée ,17.6.1739,Les Clouzeaux,26.11.1788,Nesmy,76
+301,481++,10,GUERY,Renée ,1714,,PLISSONNEAU,Jean ,17.6.1739,Les Clouzeaux,10.9.1784,Nesmy,70
+302,482++,10,MARIONNEAU,Jacques ,1729,,DESNOYERS,Marie ,9.2.1752,Saint-Florent-des-Bois,18.12.1772,,43
+303,483++,10,DESNOYERS,Marie ,1733,,MARIONNEAU,Jacques ,9.2.1752,Saint-Florent-des-Bois,28.2.1766,Chaillé-sous-les-Ormeaux,33
+304,484,10,DELAIRE,André ,,,BROCHET,Renée ,,,1751,Les Clouzeaux,
+305,485,10,BROCHET,Renée ,1706,Aubigny,DELAIRE,André ,,,1765,Aubigny,59
+306,486,10,ESNARD,Jacques , 1698,,BECAUD,Marie ,,,10.4.1744,, 46
+307,487,10,BECAUD,Marie ,21.8.1699,Aubigny,ESNARD,Jacques ,,,,,
+308,488 (236),10,ROBLIN,Jaques ,2.6.1724,Saint-Florent-des-Bois,PERCOT,Marie ,14.7.1749,Saint-Florent-des-Bois,27.2.1772,Saint-Florent-des-Bois,47
+309,489 (237),10,PERCOT,Marie ,12.11.1725,Saint-Florent-des-Bois,ROBLIN,Jaques ,14.7.1749,Saint-Florent-des-Bois,16.4.1810,Saint-Florent-des-Bois,84
+310,490,10,MARTINEAU,Jean ,3.3.1711,Saint-Florent-des-Bois,MASSE,Jacquette ,20.2.1743,Saint-Florent-des-Bois,28.3.1758,Saint-Florent-des-Bois,47
+311,491,10,MASSE,Jacquette ,1719,,MARTINEAU,Jean ,20.2.1743,Saint-Florent-des-Bois,31.5.1785,Saint-Florent-des-Bois,66
+312,492,10,BESSONET,Barthélémy ,,,GIRARDEAU,Françoise ,20.6.1747,Thorigny,,,
+313,493,10,GIRARDEAU,Françoise ,,,BESSONET,Barthélémy ,20.6.1747,Thorigny,,,
+314,494,10,PUBERT,Jean ,,,BARAUD,Catherine ,,,,,
+315,495,10,BARAUD,Catherine ,,,PUBERT,Jean ,,,,,
+316,496 (480),10,PLISSONNEAU,Jean ,1712,,GUERY,Renée ,17.6.1739,Les Clouzeaux,26.11.1788,Nesmy,76
+317,497 (481),10,GUERY,Renée ,1714,,PLISSONNEAU,Jean ,17.6.1739,Les Clouzeaux,10.9.1784,Nesmy,70
+318,498 (482),10,MARIONNEAU,Jacques ,1729,,DESNOYERS,Marie ,9.2.1752,Saint-Florent-des-Bois,18.12.1772,,43
+319,499 (483),10,DESNOYERS,Marie ,1733,,MARIONNEAU,Jacques ,9.2.1752,Saint-Florent-des-Bois,28.2.1766,Chaillé-sous-les-Ormeaux,33
+320,500,10,IDIER,Denis , 1714,,DURANDET,Marie ,9.2.1739,,8.6.1778,, 64
+321,501,10,DURANDET,Marie , 1715,,IDIER,Denis ,9.2.1739,,30.4.1775,, 60
+322,502,10,GENDRONNEAU,Jean ,,,CARDINAUD,Marie ,,,,,
+323,503,10,CARDINAUD,Marie ,,,GENDRONNEAU,Jean ,,,,,
+324,504,10,GALERNEAU,Jean , 1725,,ROY,Marie ,20.6.1750,Nesmy,26.3.1789,Nesmy, 64
+325,505,10,ROY,Marie , 1729,,GALERNEAU,Jean ,20.6.1750,Nesmy,,,
+326,506 (454),10,PASQUIER,Henry ,1720,,ROUILLON,Marie Anne ,8.7.1744,Thorigny,11.10.1762,Thorigny,42
+327,507 (455),10,ROUILLON,Marie Anne , 1725,,PASQUIER,Henry ,8.7.1744,Thorigny,28.1.1780,Thorigny, 55
+328,508,10,MATHE,André , 1714,,TRIAUD,Marie ,12.6.1739,Saint-Florent-des-Bois,11.3.1748,Les Clouzeaux, 34
+329,509,10,TRIAUD,Marie ,27.9.1718,Nesmy,MATHE,André ,12.6.1739,Saint-Florent-des-Bois,24.4.1773,Saint-Florent-des-Bois,54
+330,,10,GABORIT,André ,,,FROMAGET,Jeanne ,,,,,
+331,,10,FROMAGET,Jeanne ,,,GABORIT,André ,,,,,
+332,,10,PRENEAU,Madelaine ,,,,,,,,,
+333,,10,CLAVEAU,François ,,,FUMOLEAU,Marie Anne ,,,,,
+334,,10,FUMOLEAU,Marie Anne ,,,CLAVEAU,François ,,,,,
+335,,10,HERAUD,Mathurin ,,,BELOT,Marie ,,,31.8.1765,La Caillere St Hillaire,
+336,,10,BELOT,Marie , 1690,,HERAUD,Mathurin ,,,13.7.1747,Thouarsais-Bouildroux, 57
+337,,10,PLANCHÉ,Mathurin ,2.9.1677,Saint-Sulpice-en-Pareds,ROBIN,Marie ,12.2.1702,Saint-Sulpice-en-Pareds,29.12.1723,Saint-Sulpice-en-Pareds,46
+338,,10,ROBIN,Marie ,,,PLANCHÉ,Mathurin ,12.2.1702,Saint-Sulpice-en-Pareds,,,
+339,,10,RAFFENEAU,Guillaume ,17.10.1677,Saint-Laurent-de-la-Salle,CRESPEAU,Jeanne ,12.11.1714,Saint-Laurent-de-la-Salle,27.4.1740,La Caillere,62
+340,,10,CRESPEAU,Jeanne , 1693,,RAFFENEAU,Guillaume ,12.11.1714,Saint-Laurent-de-la-Salle,19.4.1740,La Caillere, 47
+341,,10,BELION,Pierre , 1688,,PREZEAU,Marie ,18.10.1719,Marsais-Sainte-Radégonde,10.1.1763,Saint-Laurent-de-la-Salle, 75
+342,,10,PREZEAU,Marie , 1685,,BELION,Pierre ,18.10.1719,Marsais-Sainte-Radégonde,9.12.1765,Saint-Cyr-des-Gâts, 80
+343,,10,MERIT,Mathurin ,1671,,AYRAULT,Marie ,14.2.1708,Bouildroux,21.6.1736,Thouarsais-Bouildroux,65
+344,,10,AYRAULT,Marie ,1672,,MERIT,Mathurin ,14.2.1708,Bouildroux,17.5.1745,Saint-Pierre-du-Chemin,73
+345,,10,GIRAUDET,Jean ,,,GENDREAU,Perrine ,5.2.1709,Thouarsais-Bouildroux,,,
+346,,10,GENDREAU,Perrine ,,,GIRAUDET,Jean ,5.2.1709,Thouarsais-Bouildroux,,,
+347,,10,BAUDRY,Antoine ,1680,Bouildroux,AUTIN,Catherine ,30.6.1711,Bouildroux,12.11.1747,Caillere St Hilaire,67
+348,,10,AUTIN,Catherine ,31.1.1685,La Reorthe,BAUDRY,Antoine ,30.6.1711,Bouildroux,27.3.1774,La Caillere St Hillaire,89
+349,,10,GIBOUIN,Pierre ,7.11.1688,Saint-Hilaire-du-Bois,FAUCON,Marie ,29.10.1712,Saint-Hilaire-du-Bois,,,
+350,,10,FAUCON,Marie ,8.1.1688,St Martin Lars en Sainte Hermind,GIBOUIN,Pierre ,29.10.1712,Saint-Hilaire-du-Bois,,,
+351,,10,BOURRAUD,Jean ,,,BAUDET,Jeanne ,,,,,
+352,,10,BAUDET,Jeanne ,,,BOURRAUD,Jean ,,,,,
+353,,10,MARTINEAU,Pierre ,1671,,BRIDIER,Guillemette ,,,4.5.1743,Pérignac,72
+354,,10,BRIDIER,Guillemette ,7.11.1672,,MARTINEAU,Pierre ,,,8.2.1735,Pérignac,62
+355,,10,QUANTIN,Jean ,,,PAVIE,Catherine ,3.2.1688,,,,
+356,,10,PAVIE,Catherine ,20.2.1662,Pérignac,QUANTIN,Jean ,3.2.1688,,23.10.1740,Coulonges,78
+357,,10,BARBRAUD,Jean ,,,BABIN,Perrine ,,,,,
+358,,10,BABIN,Perrine ,,,BARBRAUD,Jean ,,,,,
+359,,10,SAULNIER,Jean François ,,,CHOIME,Marie ,,,,,
+360,,10,CHOIME,Marie ,,,SAULNIER,Jean François ,,,,,
+361,,10,GABORIT,Jean ,,,BAUDRY,Renée ,,,,,
+362,,10,BAUDRY,Renée ,,,GABORIT,Jean ,,,,,
+363,,10,GUIONNET,Jean ,24.12.1677,Paillé,MARTIN,Marie ,13.11.1713,Vervant,28.5.1727,Vervant,49
+364,,10,MARTIN,Marie ,23.3.1693,Vervant,GUIONNET,Jean ,13.11.1713,Vervant,4.7.1754,Vervant,61
+365,608,11,GABET,Nicolas ,,,CONTANT,Marie ,< 1662,,> 1678,Courcerac,
+366,609,11,CONTANT,Marie ,20.10.1639,Aujac,GABET,Nicolas ,< 1662,,24.11.1678,Courcerac,39
+367,780,11,GREFFARD,Pierre , 1660,,BIGAUD,Catherine ,,,,,
+368,781,11,BIGAUD,Catherine , 1665,,GREFFARD,Pierre ,,,,,
+369,782,11,BOCQUIER,Pierre , 1660,Chaillé-sous-les-Ormeaux,GALERNEAU,Jacquette ,,,,,
+370,783,11,GALERNEAU,Jacquette , 1652,Chaillé-sous-les-Ormeaux,BOCQUIER,Pierre ,,,,,
+371,908++,11,PASQUIER,René , 1675,,RIGOLAGE,Jeanne ,4.8.1710,Château-Guibert,25.11.1747,Château-Guibert, 72
+372,909++,11,RIGOLAGE,Jeanne , 1681,Les Pineaux,PASQUIER,René ,4.8.1710,Château-Guibert,,,
+373,910++,11,ROUILLON,Pierre ,16.8.1681,Thorigny,IMBERT,Louise ,21.7.1723,Bournezeau,16.5.1740,Thorigny,58
+374,911++,11,IMBERT,Louise ,16.4.1691,Bournezeau,ROUILLON,Pierre ,21.7.1723,Bournezeau,,,
+375,916,11,THULLEAU,George , 1670,,BRETON,Catherine ,1695,,,,
+376,917,11,BRETON,Catherine , 1673,,THULLEAU,George ,1695,,,,
+377,918,11,RENAUD,René , 1660,,GUILLET,Françoise ,,,< 1738,, 78
+378,919,11,GUILLET,Françoise , 1680,,RENAUD,René ,,,< 1738,, 58
+379,928,11,LEVRAUD,Pierre ,,,GODET,Marguerite ,6.5.1685,Bournezeau,1717,,
+380,929,11,GODET,Marguerite ,,,LEVRAUD,Pierre ,6.5.1685,Bournezeau,,,
+381,930,11,GIRARDIN,Mathurin ,,,GOURAUD,Marguerite ,,,,,
+382,931,11,GOURAUD,Marguerite ,,,GIRARDIN,Mathurin ,,,,,
+383,940,11,LAVERGNE,Jean ,,,PAQUEREAU,Marie ,,,,,
+384,941,11,PAQUEREAU,Marie ,,,LAVERGNE,Jean ,,,,,
+385,942,11,SELIN,Charles ,,,LEMOINE,Françoise ,,,,,
+386,943,11,LEMOINE,Françoise ,,,SELIN,Charles ,,,,,
+387,944++,11,ROBLIN,Mathurin ,31.12.1667,Saint-Florent-des-Bois,TROQUIER,Perrine ,,,24.8.1743,Saint-Florent-des-Bois,75
+388,945++,11,TROQUIER,Perrine ,6.4.1658,Thorigny,ROBLIN,Mathurin ,,,12.10.1719,Saint-Florent-des-Bois,61
+389,946++,11,GIRAUDEAU,Estienne ,29.4.1674,Saint-Florent-des-Bois,DELAVERGNE,Marie ,,,,,
+390,947++,11,DELAVERGNE,Marie ,30.6.1672,Saint-Florent-des-Bois,GIRAUDEAU,Estienne ,,,,,
+391,948++,11,PERCOT,Nicolas ,1660,,MARTIN,Marguerite ,7.11.1719,Saint-Florent-des-Bois,14.3.1756,Chaillé-sous-les-Ormeaux,96
+392,949++,11,MARTIN,Marguerite , 1670,,PERCOT,Nicolas ,7.11.1719,Saint-Florent-des-Bois,,,
+393,950++,11,RUFFINEAU,Charles ,6.3.1672,Thorigny,SIROUET,Jeanne ,23.2.1697,Thorigny,28.11.1742,Saint-Florent-des-Bois,70
+394,951++,11,SIROUET,Jeanne ,19.11.1676,La Limouzinière,RUFFINEAU,Charles ,23.2.1697,Thorigny,1731,,54
+395,952,11,GOICHON,Nicolas ,,,PERREAU,Marie ,,,21.3.1778,,
+396,953,11,PERREAU,Marie ,,,GOICHON,Nicolas ,,,,,
+397,954,11,HILAIRET,Pierre ,,,,,,,16.8.1739,,
+398,956,11,BUTON,Jacques ,1676,,,,,,25.7.1758,,82
+399,960++,11,PLISSONNEAU,Jacques ,9.8.1684,Aubigny,CHABOT,Marie ,,,3.7.1732,Nesmy,47
+400,961++,11,CHABOT,Marie ,1685,,PLISSONNEAU,Jacques ,,,,,
+401,963++,11,CHIFFOLLEAU,Marie ,,,,,,,,,
+402,964++,11,MARIONNEAU,Jacques ,8.7.1700,Nesmy,SELIN,Gabrielle ,12.5.1723,Nesmy,27.1.1776,Saint-Vincent-sur-Graon,75
+403,965++,11,SELIN,Gabrielle ,30.10.1696,,MARIONNEAU,Jacques ,12.5.1723,Nesmy,21.11.1770,Nesmy,74
+404,966++,11,DESNOYERS,Pierre , 1699,,MARTINEAU,Marie ,,,7.4.1739,Saint-Florent-des-Bois, 40
+405,967++,11,MARTINEAU,Marie ,,,DESNOYERS,Pierre ,,,> 1752,,
+406,974,11,BECAUD,René ,,,NEAU,Marie ,4.2.1688,Aubigny,13.10.1719,,
+407,975,11,NEAU,Marie ,,,BECAUD,René ,4.2.1688,Aubigny,25.8.1732,Aubigny,
+408,976 (472),11,ROBLIN,Mathurin ,10.12.1699,Saint-Florent-des-Bois,GIRAUDEAU,Jeanne ,,,5.7.1747,Saint-Florent-des-Bois,47
+409,977 (473),11,GIRAUDEAU,Jeanne ,1696,,ROBLIN,Mathurin ,,,23.8.1750,Saint-Florent-des-Bois,54
+410,978 (474),11,PERCOT,Nicolas ,3.1.1693,Saint-Florent-des-Bois,RUFFINEAU,Jeanne ,7.11.1719,Saint-Florent-des-Bois,30.10.1754,Chaillé-sous-les-Ormeaux,61
+411,979 (475),11,RUFFINEAU,Jeanne ,1697,,PERCOT,Nicolas ,7.11.1719,Saint-Florent-des-Bois,> 1749,,= 51
+412,980,11,MARTINEAU,Charles ,28.3.1686,Saint-Florent-des-Bois,DENYS,Jeanne ,20.7.1707,Saint-Florent-des-Bois,12.11.1723,Saint-Florent-des-Bois,37
+413,981,11,DENYS,Jeanne ,16.1.1691,Saint-Florent-des-Bois,MARTINEAU,Charles ,20.7.1707,Saint-Florent-des-Bois,,,
+414,982,11,MASSE,Pierre ,1.11.1690,Saint-Florent-des-Bois,GALERNEAU,Marie ,20.2.1713,Saint-Florent-des-Bois,10.9.1736,Saint-Florent-des-Bois,45
+415,983,11,GALERNEAU,Marie ,9.2.1695,Saint-Florent-des-Bois,MASSE,Pierre ,20.2.1713,Saint-Florent-des-Bois,4.2.1750,,54
+416,992 (960),11,PLISSONNEAU,Jacques ,9.8.1684,Aubigny,CHABOT,Marie ,,,3.7.1732,Nesmy,47
+417,993 (961),11,CHABOT,Marie ,1685,,PLISSONNEAU,Jacques ,,,,,
+418,995 (963),11,CHIFFOLLEAU,Marie ,,,,,,,,,
+419,996 (964),11,MARIONNEAU,Jacques ,8.7.1700,Nesmy,SELIN,Gabrielle ,12.5.1723,Nesmy,27.1.1776,Saint-Vincent-sur-Graon,75
+420,997 (965),11,SELIN,Gabrielle ,30.10.1696,,MARIONNEAU,Jacques ,12.5.1723,Nesmy,21.11.1770,Nesmy,74
+421,998 (966),11,DESNOYERS,Pierre , 1699,,MARTINEAU,Marie ,,,7.4.1739,Saint-Florent-des-Bois, 40
+422,999 (967),11,MARTINEAU,Marie ,,,DESNOYERS,Pierre ,,,> 1752,,
+423,1 008,11,GALERNEAU,Pierre , 1695,,FOSSE,Marie Jeanne ,27.6.1724,Nesmy,15.3.1757,Nesmy, 62
+424,1 009,11,FOSSE,Marie Jeanne ,5.7.1699,Saint-Florent-des-Bois,GALERNEAU,Pierre ,27.6.1724,Nesmy,17.1.1744,Nesmy,44
+425,1 010,11,ROY,François ,,,HERBERT,Catherine ,,,,,
+426,1 011,11,HERBERT,Catherine ,,,ROY,François ,,,,,
+427,1 012 (908),11,PASQUIER,René , 1675,,RIGOLAGE,Jeanne ,4.8.1710,Château-Guibert,25.11.1747,Château-Guibert, 72
+428,1 013 (909),11,RIGOLAGE,Jeanne , 1681,Les Pineaux,PASQUIER,René ,4.8.1710,Château-Guibert,,,
+429,1 014 (910),11,ROUILLON,Pierre ,16.8.1681,Thorigny,IMBERT,Louise ,21.7.1723,Bournezeau,16.5.1740,Thorigny,58
+430,1 015 (911),11,IMBERT,Louise ,16.4.1691,Bournezeau,ROUILLON,Pierre ,21.7.1723,Bournezeau,,,
+431,1 018,11,TRIAUD,Jean , 1685,,LOCTEAU,Monique ,28.1.1712,Nesmy,15.3.1740,Chaillé-sous-les-Ormeaux, 55
+432,1 019,11,LOCTEAU,Monique , 1690,,TRIAUD,Jean ,28.1.1712,Nesmy,28.1.1750,, 60
+433,,11,HERAUD,Nicolas ,1660,,CHANTEREAU,Marie ,,,,,
+434,,11,CHANTEREAU,Marie ,1660,,HERAUD,Nicolas ,,,,,
+435,,11,BELOT,André ,1666,,HERAUD,Catherine ,,,,,
+436,,11,HERAUD,Catherine ,,,BELOT,André ,,,,,
+437,,11,PLANCHÉ,Jean , 1644,,BELLAUD,Marie ,,,19.7.1684,Saint-Sulpice-en-Pareds, 40
+438,,11,BELLAUD,Marie ,,,PLANCHÉ,Jean ,,,,,
+439,,11,RAFFENEAU,Louis ,,,ROUSSEAU,Louise ,,,,,
+440,,11,ROUSSEAU,Louise ,,,RAFFENEAU,Louis ,,,,,
+441,,11,CRESPEAU,Jacob ,,,OUVRARD,Marie ,,,,,
+442,,11,OUVRARD,Marie ,,,CRESPEAU,Jacob ,,,,,
+443,,11,BELION,Jean ,,,,,,,,,
+444,,11,PREZEAU,Mathurin ,,,,,,,,,
+445,,11,MERY,Pierre ,1650,Montournais,MORAIN,Gabrielle ,30.6.1671,Montournais,1708,,57
+446,,11,MORAIN,Gabrielle ,,,MERY,Pierre ,30.6.1671,Montournais,> 1708,,
+447,,11,AYRAULT,François ,,,BAFFARD,Jeanne ,,,,,
+448,,11,BAFFARD,Jeanne ,,,AYRAULT,François ,,,,,
+449,,11,GIRAUDET,Pierre ,,,SUZENET,Marie ,,,,,
+450,,11,SUZENET,Marie ,,,GIRAUDET,Pierre ,,,,,
+451,,11,GENDREAU,Jacques ,,,OLLIVIER,Marie ,,,,,
+452,,11,OLLIVIER,Marie ,,,GENDREAU,Jacques ,,,,,
+453,,11,BAUDRY,Pierre ,19.3.1654,Bouildroux,MORGAND,Marie ,1.7.1679,Bouildroux,30.6.1711,Bouildroux,57
+454,,11,MORGAND,Marie ,20.2.1660,Bouildroux,BAUDRY,Pierre ,1.7.1679,Bouildroux,14.7.1710,Bouildroux,50
+455,,11,AUTIN,André ,11.9.1660,St Juire la Plaine,LOISEAU,Marie ,,,9.7.1715,La Reorthe,54
+456,,11,LOISEAU,Marie ,1660,La Reorthe,AUTIN,André ,,,30.6.1711,La Reorthe,51
+457,,11,GIBOUIN,Francois , 1660,St Hillaire du Bois,GAILLARD,Anne ,4.2.1688,Saint Philibert du Pont Charrault,,,
+458,,11,GAILLARD,Anne , 1660,,GIBOUIN,Francois ,4.2.1688,Saint Philibert du Pont Charrault,,,
+459,,11,FAUCON,Pierre ,1654,St Martin Lars en Sainte Hermind,JOUSSEAUME,Renée Marie ,15.6.1678,St Martin Lars en Sainte Hermind,7.11.1719,St Martin Lars en Sainte Hermind,65
+460,,11,JOUSSEAUME,Renée Marie , 1650,St Martin Lars en Sainte Hermind,FAUCON,Pierre ,15.6.1678,St Martin Lars en Sainte Hermind,,,
+461,,11,BRIDIER,Jean ,27.2.1652,Pérignac,GADOLLET,Catherine ,,,,,
+462,,11,GADOLLET,Catherine ,,,BRIDIER,Jean ,,,5.5.1699,,
+463,,11,PAVIE,Nicolas ,,,QUANTIN,Marie ,,,,,
+464,,11,QUANTIN,Marie ,,,PAVIE,Nicolas ,,,,,
+465,,11,GUIONNET,Jean ,,,IZAMBARD,Andrée ,,,17.5.1681,Paillé,
+466,,11,IZAMBARD,Andrée ,14.12.1651,Paillé,GUIONNET,Jean ,,,,,
+467,,11,MARTIN,Pierre , 1649,Vervant,FORGET,Jeanne ,16.6.1692,Vervant,8.7.1722,Vervant, 73
+468,,11,FORGET,Jeanne , 1662,Vervant,MARTIN,Pierre ,16.6.1692,Vervant,28.3.1696,Vervant, 34
+469,1 216,12,GABET,Jean , 1604,,,,,,12.4.1672,, 68
+470,1 218,12,CONTANT,André ,25.2.1613,Courcerac,SAUVION,Marie ,< 1638,,< 1676,, 62
+471,1 219,12,SAUVION,Marie ,,,CONTANT,André ,< 1638,,> 1676,,
+472,1 564,12,BOCQUIER,Pierre ,,,GALERNEAU,Marie ,,,,,
+473,1 565,12,GALERNEAU,Marie ,,,BOCQUIER,Pierre ,,,,,
+474,1 816++,12,PASQUIER,Jean , 1645,,COUSSOT,Jeanne ,,,,,
+475,1 817++,12,COUSSOT,Jeanne , 1648,,PASQUIER,Jean ,,,9.8.1721,Château-Guibert, 73
+476,1 818++,12,RIGOLAGE,René ,4.4.1647,La Limouzinière,GEORE,Marie ,14.2.1680,Les Pineaux,,,
+477,1 819++,12,GEORE,Marie , 1660,,RIGOLAGE,René ,14.2.1680,Les Pineaux,,,
+478,1 820++,12,ROUILLON,Mathurin , 1660,,BLANCHARD,Marie ,7.2.1680,Bournezeau,16.5.1740,Thorigny, 80
+479,1 821++,12,BLANCHARD,Marie , 1662,,ROUILLON,Mathurin ,7.2.1680,Bournezeau,,,
+480,1 822++,12,IMBERT,Jean ,,,PILLATRON,Gabrielle ,,,,,
+481,1 823++,12,PILLATRON,Gabrielle ,,,IMBERT,Jean ,,,,,
+482,1 832,12,THULLEAU,Jean , 1641,,ARNAUD,Jacquette ,,,9.6.1696,Bourg sous la Roche, 55
+483,1 833,12,ARNAUD,Jacquette , 1644,,THULLEAU,Jean ,,,,,
+484,1 888++,12,ROBLIN,Jaques ,1640,Saint-Florent-des-Bois,CANTET,Andrée ,1666,Saint-Florent-des-Bois,,,
+485,1 889++,12,CANTET,Andrée ,1645,,ROBLIN,Jaques ,1666,Saint-Florent-des-Bois,22.8.1714,,69
+486,1 890++,12,TROQUIER,Louis ,,,BRECHOTEAU,Jacquette ,,,,,
+487,1 891++,12,BRECHOTEAU,Jacquette ,,,TROQUIER,Louis ,,,,,
+488,1 892++,12,GIRAUDEAU,Mathurin ,16.3.1642,Saint-Florent-des-Bois,RIGOLAGE,Mathurine ,,,,,
+489,1 893++,12,RIGOLAGE,Mathurine ,,,GIRAUDEAU,Mathurin ,,,18.4.1681,,
+490,1 894++,12,DELAVERGNE,Jean ,,,MERLAND,Marie ,,,28.4.1727,Saint-Florent-des-Bois,
+491,1 895++,12,MERLAND,Marie ,3.6.1647,Saint-Florent-des-Bois,DELAVERGNE,Jean ,,,28.3.1686,Saint-Florent-des-Bois,38
+492,1 900++,12,RUFFINEAU,Louis ,1636,,SAUVAGET,Marie ,,,11.11.1686,Thorigny,50
+493,1 901++,12,SAUVAGET,Marie ,,,RUFFINEAU,Louis ,,,,,
+494,1 902++,12,SIROUET,Jean ,1632,,SORIN,Marie ,12.6.1673,La Limouzinière,9.4.1712,La-Chaize-le-Vicomte,80
+495,1 903++,12,SORIN,Marie ,1650,,SIROUET,Jean ,12.6.1673,La Limouzinière,26.5.1695,La Limouzinière,45
+496,1 920++,12,PLISSONNEAU,Pierre ,1645,,GIRARD,Françoise ,22.6.1683,Aubigny,,,
+497,1 921++,12,GIRARD,Françoise ,1648,,PLISSONNEAU,Pierre ,22.6.1683,Aubigny,16.10.1688,Aubigny,40
+498,1 922++,12,CHABOT,Gabriel ,,,CAILLAUD,Marie ,,,,,
+499,1 923++,12,CAILLAUD,Marie ,,,CHABOT,Gabriel ,,,,,
+500,1 928++,12,MARIONNEAU,Jacques ,1660,,JEANNET,Marie ,6.2.1697,Nesmy,1.9.1739,Nesmy,79
+501,1 929++,12,JEANNET,Marie ,22.11.1668,Nesmy,MARIONNEAU,Jacques ,6.2.1697,Nesmy,22.12.1752,Nesmy,84
+502,1 930++,12,SELIN,Pierre ,1659,,FOURNIER,Gabrielle ,,,14.8.1719,Nesmy,60
+503,1 931++,12,FOURNIER,Gabrielle ,1660,,SELIN,Pierre ,,,,,
+504,1 950,12,NEAU,Mathurin ,,,TRAINEAU,Marie ,21.2.1667,Nesmy,8.9.1696,,
+505,1 951,12,TRAINEAU,Marie ,,,NEAU,Mathurin ,21.2.1667,Nesmy,,,
+506,1 952 (944),12,ROBLIN,Mathurin ,31.12.1667,Saint-Florent-des-Bois,TROQUIER,Perrine ,,,24.8.1743,Saint-Florent-des-Bois,75
+507,1 953 (945),12,TROQUIER,Perrine ,6.4.1658,Thorigny,ROBLIN,Mathurin ,,,12.10.1719,Saint-Florent-des-Bois,61
+508,1 954 (946),12,GIRAUDEAU,Estienne ,29.4.1674,Saint-Florent-des-Bois,DELAVERGNE,Marie ,,,,,
+509,1 955 (947),12,DELAVERGNE,Marie ,30.6.1672,Saint-Florent-des-Bois,GIRAUDEAU,Estienne ,,,,,
+510,1 956 (948),12,PERCOT,Nicolas ,1660,,MARTIN,Marguerite ,7.11.1719,Saint-Florent-des-Bois,14.3.1756,Chaillé-sous-les-Ormeaux,96
+511,1 957 (949),12,MARTIN,Marguerite , 1670,,PERCOT,Nicolas ,7.11.1719,Saint-Florent-des-Bois,,,
+512,1 958 (950),12,RUFFINEAU,Charles ,6.3.1672,Thorigny,SIROUET,Jeanne ,23.2.1697,Thorigny,28.11.1742,Saint-Florent-des-Bois,70
+513,1 959 (951),12,SIROUET,Jeanne ,19.11.1676,La Limouzinière,RUFFINEAU,Charles ,23.2.1697,Thorigny,1731,,54
+514,1 960,12,MARTINEAU,François ,14.7.1646,,GEAY,Francoise ,,,,,
+515,1 961,12,GEAY,Francoise ,23.12.1654,Saint-Florent-des-Bois,MARTINEAU,François ,,,2.10.1686,Saint-Florent-des-Bois,31
+516,1 962,12,DENYS,Pierre ,,,BOUCHEREAU,Françoise ,,,,,
+517,1 963,12,BOUCHEREAU,Françoise ,,,DENYS,Pierre ,,,,,
+518,1 966,12,GALERNEAU,Jacques ,1658,,TROQUIER,Jacquette ,,,26.3.1725,Saint-Florent-des-Bois,67
+519,1 967,12,TROQUIER,Jacquette ,27.3.1663,Saint-Florent-des-Bois,GALERNEAU,Jacques ,,,29.2.1740,Saint-Florent-des-Bois,76
+520,1 984 (1 920),12,PLISSONNEAU,Pierre ,1645,,GIRARD,Françoise ,22.6.1683,Aubigny,,,
+521,1 985 (1 921),12,GIRARD,Françoise ,1648,,PLISSONNEAU,Pierre ,22.6.1683,Aubigny,16.10.1688,Aubigny,40
+522,1 986 (1 922),12,CHABOT,Gabriel ,,,CAILLAUD,Marie ,,,,,
+523,1 987 (1 923),12,CAILLAUD,Marie ,,,CHABOT,Gabriel ,,,,,
+524,1 992 (1 928),12,MARIONNEAU,Jacques ,1660,,JEANNET,Marie ,6.2.1697,Nesmy,1.9.1739,Nesmy,79
+525,1 993 (1 929),12,JEANNET,Marie ,22.11.1668,Nesmy,MARIONNEAU,Jacques ,6.2.1697,Nesmy,22.12.1752,Nesmy,84
+526,1 994 (1 930),12,SELIN,Pierre ,1659,,FOURNIER,Gabrielle ,,,14.8.1719,Nesmy,60
+527,1 995 (1 931),12,FOURNIER,Gabrielle ,1660,,SELIN,Pierre ,,,,,
+528,2 016,12,GALERNEAU,Nicolas , 1655,,GEAY,Marie ,,,18.10.1726,Nesmy, 71
+529,2 017,12,GEAY,Marie , 1658,,GALERNEAU,Nicolas ,,,,,
+530,2 018,12,FOSSE,Nicolas , 1672,,ROY,Catherine ,,,,,
+531,2 019,12,ROY,Catherine , 1675,,FOSSE,Nicolas ,,,,,
+532,2 024 (1 816),12,PASQUIER,Jean , 1645,,COUSSOT,Jeanne ,,,,,
+533,2 025 (1 817),12,COUSSOT,Jeanne , 1648,,PASQUIER,Jean ,,,9.8.1721,Château-Guibert, 73
+534,2 026 (1 818),12,RIGOLAGE,René ,4.4.1647,La Limouzinière,GEORE,Marie ,14.2.1680,Les Pineaux,,,
+535,2 027 (1 819),12,GEORE,Marie , 1660,,RIGOLAGE,René ,14.2.1680,Les Pineaux,,,
+536,2 028 (1 820),12,ROUILLON,Mathurin , 1660,,BLANCHARD,Marie ,7.2.1680,Bournezeau,16.5.1740,Thorigny, 80
+537,2 029 (1 821),12,BLANCHARD,Marie , 1662,,ROUILLON,Mathurin ,7.2.1680,Bournezeau,,,
+538,2 030 (1 822),12,IMBERT,Jean ,,,PILLATRON,Gabrielle ,,,,,
+539,2 031 (1 823),12,PILLATRON,Gabrielle ,,,IMBERT,Jean ,,,,,
+540,2 038,12,LOCTEAU,Jean , 1660,,BLANCHARD,Gabrielle ,,,,,
+541,2 039,12,BLANCHARD,Gabrielle , 1664,,LOCTEAU,Jean ,,,,,
+542,,12,PLANCHÉ,Pierre , 1610,,TENDRON,Andrée ,,,23.9.1660,Saint-Sulpice-en-Pareds, 50
+543,,12,TENDRON,Andrée , 1611,,PLANCHÉ,Pierre ,,,,,
+544,,12,MERY,Mathurin ,1616,La Meilleraie-Tillay,JOURNAULT,Madelaine ,,,7.1.1686,Montournais,70
+545,,12,JOURNAULT,Madelaine ,1617,,MERY,Mathurin ,,,1685,,68
+546,,12,MORAIN,Louis ,,,RONSIN,Marie ,,,,,
+547,,12,RONSIN,Marie ,,,MORAIN,Louis ,,,,,
+548,,12,BAUDRY,Antoine , 1630,Bouildroux,GAUVRIT,Marguerite ,,,,,
+549,,12,GAUVRIT,Marguerite , 1630,Bouildroux,BAUDRY,Antoine ,,,,,
+550,,12,MORGAND,Guillaume , 1630,Bouildroux,SOUCHET,Gabrielle ,4.2.1654,Bouildroux,,,
+551,,12,SOUCHET,Gabrielle , 1630,,MORGAND,Guillaume ,4.2.1654,Bouildroux,,,
+552,,12,AUTIN,Jean ,21.8.1617,La Reorthe,HERGNON,Jeanne ,< 1660,La Reorthe,11.4.1694,La Reorthe,76
+553,,12,HERGNON,Jeanne ,3.1.1624,La Reorthe,AUTIN,Jean ,< 1660,La Reorthe,17.9.1676,La Réorthe,52
+554,,12,GIBOUIN,Thomas ,,,GUION,Laurence ,,,,,
+555,,12,GUION,Laurence ,,,GIBOUIN,Thomas ,,,,,
+556,,12,FAUCON,Georges ,,,PAVION,Elisabeth ,,,1678,Saint-Martin-Lars-en-Sainte-Hermine,
+557,,12,PAVION,Elisabeth ,,,FAUCON,Georges ,,,,,
+558,,12,BRIDIER,Jean ,,,TIBAUDEAU,Jeanne ,,,,,
+559,,12,TIBAUDEAU,Jeanne ,,,BRIDIER,Jean ,,,,,
+560,,12,IZAMBARD,Julien ,,,BREAU,Andrée ,,,,,
+561,,12,BREAU,Andrée ,,,IZAMBARD,Julien ,,,,,
+562,2 436,13,CONTANT,Charles ,,,MORINE,Marie  [],,,> 1631,,
+563,2 437,13,MORINE,Marie  [],,,CONTANT,Charles ,,,10.3.1631,Courcerac,
+564,3 632++,13,PASQUIER,Nicolas ,,,RAIGNEAU,Jeanne ,,,,,
+565,3 633++,13,RAIGNEAU,Jeanne ,,,PASQUIER,Nicolas ,,,,,
+566,3 634++,13,COUSSOT,Louis , 1625,Sainte-Marie-de-Ré,VOISIN,Marie ,,,,,
+567,3 635++,13,VOISIN,Marie ,19.11.1630,Sainte-Marie-de-Ré,COUSSOT,Louis ,,,13.8.1689,Sainte-Marie-de-Ré,58
+568,3 636++,13,RIGOLAGE,Francois ,,,BILLANDEAU,Perrine ,,,,,
+569,3 637++,13,BILLANDEAU,Perrine ,,,RIGOLAGE,Francois ,,,,,
+570,3 640++,13,ROUILLON,Gabriel , 1640,,CAILLETEAU,Jacquette ,,,18.7.1715,Thorigny, 75
+571,3 641++,13,CAILLETEAU,Jacquette ,10.6.1644,Thorigny,ROUILLON,Gabriel ,,,20.12.1707,Thorigny,63
+572,3 642++,13,BLANCHARD,Pierre ,,,TENDRON,Angelique ,,,,,
+573,3 643++,13,TENDRON,Angelique ,,,BLANCHARD,Pierre ,,,22.3.1712,Bournezeau,
+574,3 784++,13,GIRAUDEAU,Etienne ,,,BOUARD,Jeanne ,,,,,
+575,3 785++,13,BOUARD,Jeanne ,,,GIRAUDEAU,Etienne ,,,,,
+576,3 790++,13,MERLAND,Mathurin ,,,PROUST,Marguerite ,,,,,
+577,3 791++,13,PROUST,Marguerite ,,,MERLAND,Mathurin ,,,,,
+578,3 802++,13,SAUVAGET,Jaques ,,,NAULLIT,Charlotte ,,,,,
+579,3 803++,13,NAULLIT,Charlotte ,,,SAUVAGET,Jaques ,,,,,
+580,3 806++,13,SORIN,Denis ,25.3.1602,La Limouzinière,DURAND,Guylaine ,,,12.11.1668,La-Chaize-le-Vicomte,66
+581,3 807++,13,DURAND,Guylaine ,10.12.1601,La Limouzinière,SORIN,Denis ,,,> 1670,,= 68
+582,3 856++,13,MARIONNEAU,Pierre ,,,GENERA,Jeanne ,,,,,
+583,3 857++,13,GENERA,Jeanne ,,,MARIONNEAU,Pierre ,,,,,
+584,3 858++,13,JEANNET,Pierre ,,,ROY,Aimée ,,,,,
+585,3 859++,13,ROY,Aimée ,,,JEANNET,Pierre ,,,,,
+586,3 860++,13,SELIN,Jean ,1630,,ARNAUD,Marie ,,,2.10.1697,,67
+587,3 861++,13,ARNAUD,Marie ,1630,,SELIN,Jean ,,,,,
+588,3 900,13,NEAU,Vincent ,,,NEAU,Marie ,,,,,
+589,3 901,13,NEAU,Marie ,,,NEAU,Vincent ,,,,,
+590,3 902,13,TRAINEAU,Nicolas ,,,NAU,Louise ,,,,,
+591,3 903,13,NAU,Louise ,,,TRAINEAU,Nicolas ,,,,,
+592,3 904 (1 888),13,ROBLIN,Jaques ,1640,Saint-Florent-des-Bois,CANTET,Andrée ,1666,Saint-Florent-des-Bois,,,
+593,3 905 (1 889),13,CANTET,Andrée ,1645,,ROBLIN,Jaques ,1666,Saint-Florent-des-Bois,22.8.1714,,69
+594,3 906 (1 890),13,TROQUIER,Louis ,,,BRECHOTEAU,Jacquette ,,,,,
+595,3 907 (1 891),13,BRECHOTEAU,Jacquette ,,,TROQUIER,Louis ,,,,,
+596,3 908 (1 892),13,GIRAUDEAU,Mathurin ,16.3.1642,Saint-Florent-des-Bois,RIGOLAGE,Mathurine ,,,,,
+597,3 909 (1 893),13,RIGOLAGE,Mathurine ,,,GIRAUDEAU,Mathurin ,,,18.4.1681,,
+598,3 910 (1 894),13,DELAVERGNE,Jean ,,,MERLAND,Marie ,,,28.4.1727,Saint-Florent-des-Bois,
+599,3 911 (1 895),13,MERLAND,Marie ,3.6.1647,Saint-Florent-des-Bois,DELAVERGNE,Jean ,,,28.3.1686,Saint-Florent-des-Bois,38
+600,3 916 (1 900),13,RUFFINEAU,Louis ,1636,,SAUVAGET,Marie ,,,11.11.1686,Thorigny,50
+601,3 917 (1 901),13,SAUVAGET,Marie ,,,RUFFINEAU,Louis ,,,,,
+602,3 918 (1 902),13,SIROUET,Jean ,1632,,SORIN,Marie ,12.6.1673,La Limouzinière,9.4.1712,La-Chaize-le-Vicomte,80
+603,3 919 (1 903),13,SORIN,Marie ,1650,,SIROUET,Jean ,12.6.1673,La Limouzinière,26.5.1695,La Limouzinière,45
+604,3 920,13,MARTINEAU,Charles ,,,BOUARD,Catherine ,,,,,
+605,3 921,13,BOUARD,Catherine ,,,MARTINEAU,Charles ,,,,,
+606,3 934,13,TROQUIER,Nicolas ,,,CARDINAUD,Louise ,,,,,
+607,3 935,13,CARDINAUD,Louise ,,,TROQUIER,Nicolas ,,,,,
+608,3 984 (3 856),13,MARIONNEAU,Pierre ,,,GENERA,Jeanne ,,,,,
+609,3 985 (3 857),13,GENERA,Jeanne ,,,MARIONNEAU,Pierre ,,,,,
+610,3 986 (3 858),13,JEANNET,Pierre ,,,ROY,Aimée ,,,,,
+611,3 987 (3 859),13,ROY,Aimée ,,,JEANNET,Pierre ,,,,,
+612,3 988 (3 860),13,SELIN,Jean ,1630,,ARNAUD,Marie ,,,2.10.1697,,67
+613,3 989 (3 861),13,ARNAUD,Marie ,1630,,SELIN,Jean ,,,,,
+614,4 036,13,FOSSE,Nicolas , 1638,,POIRAUD,Perrine ,,,4.4.1690,Saint-Florent-des-Bois, 52
+615,4 037,13,POIRAUD,Perrine , 1639,,FOSSE,Nicolas ,,,,,
+616,4 048 (3 632),13,PASQUIER,Nicolas ,,,RAIGNEAU,Jeanne ,,,,,
+617,4 049 (3 633),13,RAIGNEAU,Jeanne ,,,PASQUIER,Nicolas ,,,,,
+618,4 050 (3 634),13,COUSSOT,Louis , 1625,Sainte-Marie-de-Ré,VOISIN,Marie ,,,,,
+619,4 051 (3 635),13,VOISIN,Marie ,19.11.1630,Sainte-Marie-de-Ré,COUSSOT,Louis ,,,13.8.1689,Sainte-Marie-de-Ré,58
+620,4 052 (3 636),13,RIGOLAGE,Francois ,,,BILLANDEAU,Perrine ,,,,,
+621,4 053 (3 637),13,BILLANDEAU,Perrine ,,,RIGOLAGE,Francois ,,,,,
+622,4 056 (3 640),13,ROUILLON,Gabriel , 1640,,CAILLETEAU,Jacquette ,,,18.7.1715,Thorigny, 75
+623,4 057 (3 641),13,CAILLETEAU,Jacquette ,10.6.1644,Thorigny,ROUILLON,Gabriel ,,,20.12.1707,Thorigny,63
+624,4 058 (3 642),13,BLANCHARD,Pierre ,,,TENDRON,Angelique ,,,,,
+625,4 059 (3 643),13,TENDRON,Angelique ,,,BLANCHARD,Pierre ,,,22.3.1712,Bournezeau,
+626,,13,AUTIN,Louis , 1580,La Reorthe,BAUDET,Catherine ,,,,,
+627,,13,BAUDET,Catherine , 1580,La Reorthe,AUTIN,Louis ,,,,,
+628,,13,HERGNON,Toussaint ,1589,La Reorthe,RUFFIN,Louise ,,,8.10.1672,La Reorthe,83
+629,,13,RUFFIN,Louise , 1585,La Reorthe,HERGNON,Toussaint ,,,,,
+630,,13,IZAMBARD,Nicolas ,,,PASQUIER,Marguerite ,,,,,
+631,,13,PASQUIER,Marguerite ,,,IZAMBARD,Nicolas ,,,,,
+632,7 280++,14,ROUILLON,Charles , 1608,,VILLENEAU,Jehanne ,,,7.10.1688,Thorigny, 80
+633,7 281++,14,VILLENEAU,Jehanne ,13.1.1619,La Limouzinière,ROUILLON,Charles ,,,2.4.1693,Thorigny,74
+634,7 612++,14,SORIN,Laurent ,1585,,ARNAUD,Julienne ,1608,,,,
+635,7 613++,14,ARNAUD,Julienne ,1585,,SORIN,Laurent ,1608,,9.3.1628,La Limouzinière,43
+636,7 614++,14,DURAND,Pierre ,,,ROBLIN,Marie ,,,,,
+637,7 615++,14,ROBLIN,Marie ,,,DURAND,Pierre ,,,,,
+638,7 816 (3 784),14,GIRAUDEAU,Etienne ,,,BOUARD,Jeanne ,,,,,
+639,7 817 (3 785),14,BOUARD,Jeanne ,,,GIRAUDEAU,Etienne ,,,,,
+640,7 822 (3 790),14,MERLAND,Mathurin ,,,PROUST,Marguerite ,,,,,
+641,7 823 (3 791),14,PROUST,Marguerite ,,,MERLAND,Mathurin ,,,,,
+642,7 834 (3 802),14,SAUVAGET,Jaques ,,,NAULLIT,Charlotte ,,,,,
+643,7 835 (3 803),14,NAULLIT,Charlotte ,,,SAUVAGET,Jaques ,,,,,
+644,7 838 (3 806),14,SORIN,Denis ,25.3.1602,La Limouzinière,DURAND,Guylaine ,,,12.11.1668,La-Chaize-le-Vicomte,66
+645,7 839 (3 807),14,DURAND,Guylaine ,10.12.1601,La Limouzinière,SORIN,Denis ,,,> 1670,,= 68
+646,8 072,14,FOSSE,Jacques , 1610,,BORDIER,Louise ,,,,,
+647,8 073,14,BORDIER,Louise ,,,FOSSE,Jacques ,,,,,
+648,8 112 (7 280),14,ROUILLON,Charles , 1608,,VILLENEAU,Jehanne ,,,7.10.1688,Thorigny, 80
+649,8 113 (7 281),14,VILLENEAU,Jehanne ,13.1.1619,La Limouzinière,ROUILLON,Charles ,,,2.4.1693,Thorigny,74
+650,14 562++,15,VILLENEAU,Thomas , 1590,,SALIGNE,Renée ,1616,,,,
+651,14 563++,15,SALIGNE,Renée , 1590,,VILLENEAU,Thomas ,1616,,,,
+652,15 676 (7 612),15,SORIN,Laurent ,1585,,ARNAUD,Julienne ,1608,,,,
+653,15 677 (7 613),15,ARNAUD,Julienne ,1585,,SORIN,Laurent ,1608,,9.3.1628,La Limouzinière,43
+654,15 678 (7 614),15,DURAND,Pierre ,,,ROBLIN,Marie ,,,,,
+655,15 679 (7 615),15,ROBLIN,Marie ,,,DURAND,Pierre ,,,,,
+656,16 226 (14 562),15,VILLENEAU,Thomas , 1590,,SALIGNE,Renée ,1616,,,,
+657,16 227 (14 563),15,SALIGNE,Renée , 1590,,VILLENEAU,Thomas ,1616,,,,
